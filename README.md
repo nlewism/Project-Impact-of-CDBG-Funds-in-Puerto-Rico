@@ -1,5 +1,6 @@
 # Real_Estate: The Impact of CDBG Funds in Puerto Rico
-**Project Status: Completed**
+- **Project Status: Completed**
+- [Access to the presentation](https://www.canva.com/design/DAF2-OGdGTs/x3BbZ-I2ELqNVQWNPrZnuw/view?utm_content=DAF2-OGdGTs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Project Objective
 The real estate industry faces challenges in maintaining housing affordability, this project investigates the potential impact of government programs, particularly the Community Development Block Grant (CDBG) and related initiatives, on the inflation of home prices. The objective is to analyze correlations between these programs and housing prices while exploring contributing factors to observed trends.
