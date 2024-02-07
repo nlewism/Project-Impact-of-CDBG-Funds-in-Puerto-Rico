@@ -1,4 +1,4 @@
-# Real_Estate: The Impact of CDBG Funds in Puerto Rico
+# The Impact of CDBG Funds in Puerto Rico
 - **Project Status: Completed**
 - [Access to the presentation](https://www.canva.com/design/DAF2-OGdGTs/x3BbZ-I2ELqNVQWNPrZnuw/view?utm_content=DAF2-OGdGTs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
